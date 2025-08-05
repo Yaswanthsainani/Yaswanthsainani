@@ -14,7 +14,7 @@
 ```
 
 ## 🛡️ Professional Profile  
-Certified Junior Penetration Tester specializing in vulnerability assessment and product security. Demonstrated expertise in identifying critical vulnerabilities for Fortune 500 companies while enhancing organizational security posture through ethical hacking and automation.
+Certified Junior Penetration Tester specializing in vulnerability assessment and product security. Demonstrated expertise in identifying critical vulnerabilities for Fortune 80 companies while enhancing organizational security posture through ethical hacking and automation.
 
 ---
 
@@ -111,8 +111,6 @@ CGPA: 8.5/10
   <a href="https://medium.com/@boligarlayashwanthsai"><img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium" width="160"></a>
 </p>
 
-<p align="right">
-  <a href="#top">↑ Back to Top </a>
-</p>
+
 
 
